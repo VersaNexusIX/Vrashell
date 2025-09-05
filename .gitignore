@@ -1,0 +1,27 @@
+# === VRASH ignore ===
+.vrash.env
+.vrash.session
+.vrash.error.log
+
+# === Logs ===
+*.log
+*.tmp
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Zsh / Shell ===
+.zshrc
+.zsh_history
+bash_history
+
+# === Termux specific ===
+.termux/
+termux.properties
+
+# === OS junk ===
+.DS_Store
+Thumbs.db
