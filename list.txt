@@ -1,0 +1,21 @@
+═══════════════════════════════════════════════════════════════
+📜  AI & Session
+ ├─ vra -a "<prompt>"       → Ask VERA AI
+ ├─ vra reset-session       → Reset conversation (clear session)
+ └─ vra errors              → Show last 5 error logs
+
+📦  Package Management
+ ├─ vra -u                  → Auto update & upgrade packages
+ ├─ vra -i <pkg>            → Install package
+ ├─ vra -r <pkg>            → Remove package
+ ├─ vra -s <pkg>            → Search for package
+ └─ vra -l                  → List installed packages
+
+📝  File & Editing
+ └─ vra -v <file>           → Edit file using nano
+
+💡  Tools & Help
+ ├─ vra -t                  → Set terminal theme
+ ├─ vra help                → Show this menu
+ └─ vra                     → Show this menu
+═══════════════════════════════════════════════════════════════
